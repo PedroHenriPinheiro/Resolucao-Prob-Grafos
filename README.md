@@ -15,5 +15,5 @@ Este repositório contém a modelagem e o desenvolvimento das soluções para os
 | Integrante                          | RA              |
 | ----------------------------------- | --------------- |
 | Pedro Henrique Pinheiro de Oliveira | 2420509         |
-| Carlos Andrey Silveira Silva        | [Insira seu RA] |
-| Juliana Martins Ribeiro             | [Insira seu RA] |
+| Carlos Andrey Silveira Silva        | 2420515         |
+| Juliana Martins Ribeiro             | 2420516         |
