@@ -1,6 +1,6 @@
 # README
 
-# Tarefa H — Kefa and Park
+# Repositório para documentação dos trabalhos
 
 **Disciplina:** T290-09 — Resolução de Problemas com Grafos
 
