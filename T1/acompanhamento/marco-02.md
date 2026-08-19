@@ -62,17 +62,17 @@ Vértice 5 (Gato: 0): [2]
 
 ## Medidas Estruturais Pertinentes (Unidade I)
 
-1. **Vértices ($N = 5$) e Arestas ($E = 4$):** Confirma a relação $E = N - 1$, validando que a estrutura é uma árvore.
+**1. Vértices ($N = 5$) e Arestas ($E = 4$):** Confirma a relação $E = N - 1$, validando que a estrutura é uma árvore.
 
-2. **Grau mínimo ($min = 1$) e Grau máximo ($máx = 3$):**
+**2. Grau mínimo ($min = 1$) e Grau máximo ($máx = 3$):**
 
-    1. **Vértice 1 (Raiz):** possui grau $2$ (vizinhos: 2 e 3);
-    2. **Vértice 2:** possui grau $3$ (vizinhos: 1, 4 e 5);
-    3. **Vértices 3, 4 e 5:** possuem grau $1$ cada, sendo mapeados corretamente como folhas (restaurantes do problema).
+* Vértice 1 (Raiz): possui grau $2$ (vizinhos: 2 e 3);
+* Vértice 2: possui grau $3$ (vizinhos: 1, 4 e 5);
+* Vértices 3, 4 e 5: possuem grau $1$ cada, sendo mapeados corretamente como folhas (restaurantes do problema).
 
-4. **Grau Médio ($1.60$):** Calculado dividindo a soma dos graus de todos os vértices pelo número total de vértices
+**4. Grau Médio ($1.60$):** Calculado dividindo a soma dos graus de todos os vértices pelo número total de vértices
 
-5. **Densidade ($0.40$):** Mostra que sua densidade é de 40%. É um grafo esparso, pois toda árvore, por definição estrutural, é um grafo esparso.
+**5. Densidade ($0.40$):** Mostra que sua densidade é de 40%. É um grafo esparso, pois toda árvore, por definição estrutural, é um grafo esparso.
 
 ---
 
