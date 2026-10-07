@@ -151,19 +151,17 @@ Quando não existem mais arestas disponíveis, o vértice é retirado da pilha e
 
 ---
 
-## 2.4. `BreadthFirstPaths`
+## 2.4. `BreadthFirstDirectedPaths`
 
 A classe:
 
 ```text
-BreadthFirstPaths
+BreadthFirstDirectedPaths
 ```
 
 pode ser utilizada como referência para a verificação de conectividade dos vértices que possuem arestas.
 
-Como o problema possui arestas direcionadas, a conectividade necessária para essa condição pode ser analisada considerando uma representação não direcionada das arestas.
-
-Essa etapa será adaptada de acordo com a implementação final.
+Como o problema possui arestas direcionadas, a conectividade necessária para essa condição pode ser analisada considerando uma representação direcionada das arestas.
 
 ---
 
