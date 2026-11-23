@@ -78,7 +78,10 @@ Considere a entrada:
 O grafo original possui três cidades e quatro voos:
 
 ```text
-       3         1
+       5
+  -----------
+  |         |   
+  V    3    |     1
   1 ------> 2 ------> 3
    \                  ^
     \                 |
